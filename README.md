@@ -59,24 +59,8 @@ ESP32 + Blynk based aquaponics automation with pH sensor, feeder servo, OTA, and
 ### 🔹 Gas Detection System
 ESP32 project for gas monitoring using multiple sensors, LCD I2C, buzzer, and servo actuator.
 
-### 🔹 Peniris Minyak ESP32
+### 🔹 Oil Drainer ESP32
 PID-based motor speed control system with encoder feedback for automatic oil spinner / draining system.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agosgit&show_icons=true&theme=tokyonight" alt="agosgit stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agosgit&theme=tokyonight" alt="agosgit streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agosgit&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="agosgit top languages" />
-</p>
 
 ---
 
@@ -114,14 +98,3 @@ PID-based motor speed control system with encoder feedback for automatic oil spi
 
 > Keep building, keep learning, and turn ideas into real systems.
 
----
-
-## 📍 Profile Repository Setup
-
-To show this on your GitHub profile, create a **public repository** named exactly:
-
-```text
-agosgit
-```
-
-Then place this `README.md` inside that repository.
