@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Agosgit Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Agus Tri Sucipto</h1>
 <h3 align="center">ESP32, IoT, Embedded Systems, React Native, and AI Enthusiast</h3>
 
